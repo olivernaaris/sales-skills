@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "skills": {
+    "sales-account-map": {
+      "source": "sales-skills/sales",
+      "sourceType": "github",
+      "sourceCommit": "5065117670cd0f6beaf678a8b8727a17db214488",
+      "computedHash": "b0181afee644d29b6c2abcedd543302f51a37c10da279a1fd3d3f256986f14b3"
+    },
+    "sales-apollo": {
+      "source": "sales-skills/sales",
+      "sourceType": "github",
+      "sourceCommit": "5065117670cd0f6beaf678a8b8727a17db214488",
+      "computedHash": "2b57ba09fee76340cf5b9f5485caaddde29b8bd1d133d81f3448edb5babacb2e"
+    },
+    "sales-attio": {
+      "source": "sales-skills/sales",
+      "sourceType": "github",
+      "sourceCommit": "5065117670cd0f6beaf678a8b8727a17db214488",
+      "computedHash": "28cb0867d648f0c3fd1ebf01215968bf5c370421919af569be8168b0b70edcf3"
+    },
+    "sales-data-hygiene": {
+      "source": "sales-skills/sales",
+      "sourceType": "github",
+      "sourceCommit": "5065117670cd0f6beaf678a8b8727a17db214488",
+      "computedHash": "46d5bf59a1112d0875c9c7e33b9dea375f8c7e44168a0ce181d22d42441179cf"
+    },
+    "sales-do": {
+      "source": "sales-skills/sales",
+      "sourceType": "github",
+      "sourceCommit": "5065117670cd0f6beaf678a8b8727a17db214488",
+      "computedHash": "dfcc10bfa1b47bc055dd7096a47963008e423f6f23bead4f05dd5c4dd3c98e1e"
+    },
+    "sales-enrich": {
+      "source": "sales-skills/sales",
+      "sourceType": "github",
+      "sourceCommit": "5065117670cd0f6beaf678a8b8727a17db214488",
+      "computedHash": "ccfefb05012c468c8603d8d75744c57318944e7cad8c9026a99af7c64bbe71e3"
+    },
+    "sales-hunter": {
+      "source": "sales-skills/sales",
+      "sourceType": "github",
+      "sourceCommit": "5065117670cd0f6beaf678a8b8727a17db214488",
+      "computedHash": "d17f379da4691bf8b04051190cff42da580bce2c2313030a30e294f6127715c0"
+    },
+    "sales-intent": {
+      "source": "sales-skills/sales",
+      "sourceType": "github",
+      "sourceCommit": "5065117670cd0f6beaf678a8b8727a17db214488",
+      "computedHash": "6c2082589014304ada23a41f78dac9bf73742a4d3b2c3779f490aabc01111258"
+    },
+    "sales-prospect-list": {
+      "source": "sales-skills/sales",
+      "sourceType": "github",
+      "sourceCommit": "5065117670cd0f6beaf678a8b8727a17db214488",
+      "computedHash": "9b6e18ecea43675b0e563fe5dfc29711780177b9c60a2012a41f1a31ce178679"
+    },
+    "lead-gen-orchestrator": {
+      "source": "owned",
+      "sourceType": "local"
+    },
+    "lead-gen-linkedin-chrome": {
+      "source": "owned",
+      "sourceType": "local"
+    },
+    "lead-gen-reddit-chrome": {
+      "source": "owned",
+      "sourceType": "local"
+    },
+    "lead-gen-instagram-chrome": {
+      "source": "owned",
+      "sourceType": "local"
+    },
+    "lead-gen-checkpoint": {
+      "source": "owned",
+      "sourceType": "local"
+    }
+  }
+}

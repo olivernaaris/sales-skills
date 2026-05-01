@@ -1,0 +1,7 @@
+{
+  "name": "sales-skills",
+  "private": true,
+  "type": "module",
+  "description": "Lead-gen orchestration skills for Chrome-driven prospecting — LinkedIn, Reddit, Instagram → Hunter / Apollo enrichment → Attio CRM.",
+  "license": "MIT"
+}
